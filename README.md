@@ -1,2 +1,1 @@
-# states-guessing
-US states guessing game
+# US States Guessing Game
